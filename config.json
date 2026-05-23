@@ -1,0 +1,14 @@
+{
+    "app_name": "Athletic Competition VBA",
+    "description": "",
+    "author": "Shimadonbey",
+    "email": "hei96hiraoka@gmail.com",
+    "create_ate": "Sun Aug 13 2023 22:51:51 GMT+0900 (日本標準時)",
+    "excel_file": "athletic-competition-vba.xlsm",
+    "vba_folder": "vba-files",
+    "ribbon_file": "customUI14",
+    "ribbon_folder": "ribbons",
+    "logs": "on",
+    "xvba_packages": {},
+    "xvba_dev_packages": {}
+}
